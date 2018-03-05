@@ -62,7 +62,11 @@
 			<version>2.8.0</version>
 		</dependency>
 	</dependencies>
-
+<scm>
+   <connection>scm:git:https://github.com/Nagaraj4775/NexusWithScm.git</connection>
+   <url>https://github.com/Nagaraj4775/NexusWithScm.git</url>
+   <developerConnection>scm:git:https://github.com/Nagaraj4775/NexusWithScm.git</developerConnection>
+</scm>
 	<build>
 		<pluginManagement>
 			<plugins>
